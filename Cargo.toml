@@ -1,0 +1,10 @@
+[package]
+name = "simplereboot"
+version = "0.1.0"
+authors = ["MOZGIII <mike-n@narod.ru>"]
+edition = "2018"
+
+description = "Simple system reboot implementation"
+license = "MIT"
+
+[dependencies]
